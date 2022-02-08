@@ -1,0 +1,2 @@
+
+export * from './FormRegister.jsx ';
